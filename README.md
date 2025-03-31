@@ -7,8 +7,8 @@ This README provides instructions for setting up and running the application.
 
 1. Clone the repository
    ```
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/karthik-07/fair-winds-analytics.git
+   cd fair-winds-analytics
    ```
 
 2. Install dependencies
