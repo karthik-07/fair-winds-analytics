@@ -18,9 +18,6 @@ function App() {
           </Routes>
         </main>
         
-        <footer>
-          <p>&copy; 2023 API Connection Tester</p>
-        </footer>
       </div>
     </BrowserRouter>
   );
